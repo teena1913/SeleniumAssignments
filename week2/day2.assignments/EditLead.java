@@ -5,7 +5,7 @@ public class EditLead {
 	public static void main(String[] args) {
 		    
 		
-			/*http://leaftaps.com/opentaps/control/main
+			*http://leaftaps.com/opentaps/control/main
 			
 			* 1	Launch the browser
 			* 2	Enter the username
